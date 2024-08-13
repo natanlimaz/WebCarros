@@ -2,7 +2,7 @@
 
 WebCarros é uma plataforma online de vendas de carros.
 
-[Clique aqui](https://web-carros-six.vercel.app/) para acessar a plataforma WebCarros
+[Clique aqui](https://web-carros-rosy.vercel.app/) para acessar a plataforma WebCarros
 
 ## O que você pode fazer na plataforma?
 
